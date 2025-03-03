@@ -14,7 +14,7 @@ Thank you for using Avanae Airports! This interactive airport is meant to enhanc
 * Support for multiple progress bars. Current support includes **esx**, **qb**, **ox**, or the ability for integrating a **custom progress bar**.
 * Support for multiple target solutions. Current support includes **ox**, **qb**, **qtarget** or the ability for integrating a **custom target solution**.
 * Code is very commented in an attempt to guide the user what parts of the code does.
-* Performance friendly 0.00-0.01ms on the resmon if using the eye tracker. 0.00-0.03ms if using markers.
+* Performance friendly 0.00-0.01ms on the resmon if using a target system. 0.00-0.03ms if using markers.
 
 # Requirements
 
